@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+header {
+    background-color: hsl(164, 81%, 37%);
+    font-family: sans-serif;
+    font-size: 20;
+    color: #ffffff;
+}
+
+.nav-link{
+    background-color: black;
+    color: hsl(164, 81%, 37%);
+    font-family: sans-serif;
+    font-size: 20;
+    color: #ffffff;
+}
+.navbar-item{
+    background-color: gold;
+    color: hsl(164, 81%, 37%);
+    font-family: sans-serif;
+    font-size: 20;
+    color: #ffffff;
+}
