@@ -52,3 +52,14 @@ header .navbar-item {
 #card-honolulu {
     background-color: rgb(53, 58, 64);
 }
+
+#footer {
+    justify-content: space-between;
+    background-color: rgb(30, 68, 89);
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 3px;
+}
